@@ -1,1 +1,1 @@
-.. include:: ../INFO.rst
+.. include:: ../Info.rst
