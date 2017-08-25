@@ -1,7 +1,3 @@
-Authors
+Devs
 -------
-
-* Eric (New contributor)
-* Anthony 
-
-
+Maker of mini_hatter: Littlemadhatter#3074
