@@ -1,7 +1,0 @@
-site_name: mini_hatter
-repo_url: https://github.com/littlemadhatter/mini_hatter
-pages:
-- Infomation:
-    - Commands List: Info.rst
-
-theme: readthedocs
