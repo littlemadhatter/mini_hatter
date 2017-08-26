@@ -1,5 +1,11 @@
-mini_hatter's info
+Infomation
 =======
+
+Devs
+-------
+Maker of mini_hatter: Littlemadhatter#3074
+
+
 
 Commands
 -------
@@ -20,8 +26,4 @@ Commands
 
 
 there is more commands but you have to find them on your own but know that my prefix is /
-
-Devs
--------
-Maker of mini_hatter: Littlemadhatter#3074
 
