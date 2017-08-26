@@ -10,6 +10,9 @@ Maker of mini_hatter: Littlemadhatter#3074
 Commands
 -------
 
+### Administration  
+Commands and aliases | Description | Usage
+----------------|--------------|-------
 `.delmsgoncmd` | Toggles the automatic deletion of the user's successful command message to prevent chat flood. **Requires Administrator server permission.** | `.delmsgoncmd`
 
 /bug report a bug to my channel use this if you find a bug
